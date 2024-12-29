@@ -1,101 +1,101 @@
-,Unnamed: 0.1,Unnamed: 0,Nombre,Enlace,Temas,Rating
-0,0,0,Presents,http://codeforces.com/problemset/problem/136/A,[,]
-1,1,1,NearlyLuckyNumber,http://codeforces.com/problemset/problem/110/A,[,]
-2,2,2,PetyaandStrings,http://codeforces.com/problemset/problem/112/A,"['implementation', 'strings'",]
-3,3,3,Tram,http://codeforces.com/problemset/problem/116/A,['implementation',]
-4,4,4,Ultra-FastMathematician,http://codeforces.com/problemset/problem/61/A,['implementation',]
-5,5,5,AmusingJoke,http://codeforces.com/problemset/problem/141/A,"['implementation', 'sortings', 'strings'",]
-6,6,6,WayTooLongWords,http://codeforces.com/problemset/problem/71/A,['strings',]
-7,7,7,XeniaandRingroad,http://codeforces.com/problemset/problem/339/B,['implementation',]
-8,8,8,SlightlyDecreasingPermutations,http://codeforces.com/problemset/problem/285/A,"['greedy', 'implementation'",]
-9,9,9,Football,http://codeforces.com/problemset/problem/96/A,"['implementation', 'strings'",]
-10,10,10,CaisaandPylons,http://codeforces.com/problemset/problem/463/B,"['brute force', 'implementation', 'math'",]
-11,11,11,PresentfromLena,http://codeforces.com/problemset/problem/118/B,"['constructive algorithms', 'implementation'",]
-12,12,12,k-String,http://codeforces.com/problemset/problem/219/A,"['implementation', 'strings'",]
-13,13,13,FancyFence,http://codeforces.com/problemset/problem/270/A,"['geometry', 'implementation', 'math'",]
-14,14,14,Chatroom,http://codeforces.com/problemset/problem/58/A,"['greedy', 'strings'",]
-15,15,15,Contest,http://codeforces.com/problemset/problem/501/A,['implementation',]
-16,16,16,Twins,http://codeforces.com/problemset/problem/160/A,"['greedy', 'sortings'",]
-17,17,17,Puzzles,http://codeforces.com/problemset/problem/337/A,['greedy',]
-18,18,18,StringTask,http://codeforces.com/problemset/problem/118/A,"['implementation', 'strings'",]
-19,19,19,MashmokhandACM,http://codeforces.com/problemset/problem/414/B,"['combinatorics', 'dp', 'number theory'",]
-20,20,20,TheChildandToy,http://codeforces.com/problemset/problem/437/C,"['graphs', 'greedy', 'sortings'",]
-21,21,21,Fence,http://codeforces.com/problemset/problem/363/B,"['brute force', 'dp'",]
-22,22,22,T-primes,http://codeforces.com/problemset/problem/230/B,"['binary search', 'implementation', 'math', 'number theory'",]
-23,23,23,RankList,http://codeforces.com/problemset/problem/166/A,"['binary search', 'implementation', 'sortings'",]
-24,24,24,FoxandBoxAccumulation,http://codeforces.com/problemset/problem/388/A,"['greedy', 'sortings'",]
-25,25,25,CinemaLine,http://codeforces.com/problemset/problem/349/A,"['greedy', 'implementation'",]
-26,26,26,EscapefromStones,http://codeforces.com/problemset/problem/264/A,"['constructive algorithms', 'data structures', 'implementation', 'two pointers'",]
-27,27,27,Laptops,http://codeforces.com/problemset/problem/456/A,['sortings',]
-28,28,28,LittleElephantandBits,http://codeforces.com/problemset/problem/258/A,"['greedy', 'math'",]
-29,29,29,FlippingGame,http://codeforces.com/problemset/problem/327/A,"['brute force', 'dp', 'implementation'",]
-30,30,30,MashmokhandACM,http://codeforces.com/problemset/problem/414/B,"['combinatorics', 'dp', 'number theory'",]
-31,31,31,DimaandStaircase,http://codeforces.com/problemset/problem/272/C,"['data structures', 'implementation'",]
-32,32,32,BuildingPermutation,http://codeforces.com/problemset/problem/285/C,"['greedy', 'implementation', 'sortings'",]
-33,33,33,IlyaandQueries,http://codeforces.com/problemset/problem/313/B,"['dp', 'implementation'",]
-34,34,34,KuriyamaMirai'sStones,http://codeforces.com/problemset/problem/433/B,"['dp', 'implementation', 'sortings'",]
-35,35,35,Party,http://codeforces.com/problemset/problem/115/A,"['dfs and similar', 'graphs', 'trees'",]
-36,36,36,IceSkating,http://codeforces.com/problemset/problem/217/A,"['brute force', 'dfs and similar', 'dsu', 'graphs'",]
-37,37,37,CutRibbon,http://codeforces.com/problemset/problem/189/A,"['brute force', 'dp'",]
-38,38,38,BookingSystem,http://codeforces.com/problemset/problem/416/C,"['binary search', 'dp', 'greedy', 'implementation'",]
-39,39,39,FoxAndNames,http://codeforces.com/problemset/problem/510/C,"['dfs and similar', 'graphs', 'sortings'",]
-40,40,40,FoxAndTwoDots,http://codeforces.com/problemset/problem/510/B,['dfs and similar',]
-41,41,41,PocketBook,http://codeforces.com/problemset/problem/152/C,['combinatorics',]
-42,42,42,Array,http://codeforces.com/problemset/problem/224/B,"['bitmasks', 'implementation', 'two pointers'",]
-43,43,43,Ladder,http://codeforces.com/problemset/problem/279/C,"['dp', 'implementation', 'two pointers'",]
-44,44,44,DivisibilitybyEight,http://codeforces.com/problemset/problem/550/C,"['brute force', 'dp', 'math'",]
-45,45,45,LittleElephantandProblem,http://codeforces.com/problemset/problem/220/A,"['implementation', 'sortings'",]
-46,46,46,CielandFlowers,http://codeforces.com/problemset/problem/322/B,"['combinatorics', 'math'",]
-47,47,47,ConvexShape,http://codeforces.com/problemset/problem/275/B,"['constructive algorithms', 'implementation'",]
-48,48,48,Maze,http://codeforces.com/problemset/problem/377/A,['dfs and similar',]
-49,49,49,ViewAngle,http://codeforces.com/problemset/problem/257/C,"['brute force', 'geometry', 'math'",]
-50,50,50,"Mr.Kitayuta,theTreasureHunter",http://codeforces.com/problemset/problem/505/C,"['dfs and similar', 'dp', 'two pointers'",]
-51,51,51,MaximumAbsurdity,http://codeforces.com/problemset/problem/332/B,"['data structures', 'dp', 'implementation'",]
-52,52,52,ColorStripe,http://codeforces.com/problemset/problem/219/C,"['brute force', 'dp', 'greedy'",]
-53,53,53,Checkposts,http://codeforces.com/problemset/problem/427/C,"['dfs and similar', 'graphs', 'two pointers'",]
-54,54,54,MishaandForest,http://codeforces.com/problemset/problem/501/C,"['constructive algorithms', 'data structures', 'greedy', 'sortings', 'trees'",]
-55,55,55,KolyaandTandemRepeat,http://codeforces.com/problemset/problem/443/B,"['brute force', 'implementation', 'strings'",]
-56,56,56,AnyaandGhosts,http://codeforces.com/problemset/problem/508/C,"['constructive algorithms', 'greedy'",]
-57,57,57,RemovingColumns,http://codeforces.com/problemset/problem/496/C,"['brute force', 'constructive algorithms', 'implementation'",]
-58,58,58,BeautifulNumbers,http://codeforces.com/problemset/problem/300/C,"['brute force', 'combinatorics'",]
-59,59,59,VasyaandChess,http://codeforces.com/problemset/problem/493/D,"['constructive algorithms', 'games', 'math'",]
-60,60,60,Hamburgers,http://codeforces.com/problemset/problem/371/C,"['binary search', 'brute force'",]
-61,61,61,ColorfulGraph,http://codeforces.com/problemset/problem/246/D,"['brute force', 'dfs and similar', 'graphs'",]
-62,62,62,ToAddorNottoAdd,http://codeforces.com/problemset/problem/231/C,"['binary search', 'sortings', 'two pointers'",]
-63,63,63,XeniaandBitOperations,http://codeforces.com/problemset/problem/339/D,"['data structures', 'trees'",]
-64,64,64,LittleGirlandMaximumXOR,http://codeforces.com/problemset/problem/276/D,"['bitmasks', 'dp', 'greedy', 'implementation', 'math'",]
-65,65,65,ArithmeticProgression,http://codeforces.com/problemset/problem/382/C,"['implementation', 'sortings'",]
-66,66,66,FriendsandPresents,http://codeforces.com/problemset/problem/483/B,"['binary search', 'math'",]
-67,67,67,Barcode,http://codeforces.com/problemset/problem/225/C,"['dp', 'matrices'",]
-68,68,68,XeniaandWeights,http://codeforces.com/problemset/problem/339/C,"['constructive algorithms', 'dfs and similar', 'dp', 'graphs', 'greedy', 'shortest paths'",]
-69,69,69,LittleDimaandEquation,http://codeforces.com/problemset/problem/460/B,"['brute force', 'implementation', 'math', 'number theory'",]
-70,70,70,LongJumps,http://codeforces.com/problemset/problem/479/D,"['binary search', 'greedy', 'implementation'",]
-71,71,71,Tetrahedron,http://codeforces.com/problemset/problem/166/E,"['dp', 'math', 'matrices'",]
-72,72,72,PhysicsPractical,http://codeforces.com/problemset/problem/253/B,"['binary search', 'dp', 'sortings', 'two pointers'",]
-73,73,73,Boredom,http://codeforces.com/problemset/problem/455/A,['dp',]
-74,74,74,ValeraandTubes,http://codeforces.com/problemset/problem/441/C,"['constructive algorithms', 'dfs and similar', 'implementation'",]
-75,75,75,ValeraandElections,http://codeforces.com/problemset/problem/369/C,"['dfs and similar', 'graphs', 'trees'",]
-76,76,76,LittleGirlandMaximumSum,http://codeforces.com/problemset/problem/276/C,"['data structures', 'greedy', 'implementation', 'sortings'",]
-77,77,77,GeorgeandJob,http://codeforces.com/problemset/problem/467/C,"['dp', 'implementation'",]
-78,78,78,TableDecorations,http://codeforces.com/problemset/problem/478/C,['greedy',]
-79,79,79,k-Tree,http://codeforces.com/problemset/problem/431/C,"['dp', 'implementation', 'trees'",]
-80,80,80,ColortheFence,http://codeforces.com/problemset/problem/349/B,"['data structures', 'dp', 'greedy', 'implementation'",]
-81,81,81,PolothePenguinandMatrix,http://codeforces.com/problemset/problem/289/B,"['brute force', 'dp', 'implementation', 'sortings', 'ternary search'",]
-82,82,82,AnotherProblemonStrings,http://codeforces.com/problemset/problem/165/C,"['binary search', 'brute force', 'dp', 'math', 'strings', 'two pointers'",]
-83,83,83,Exams,http://codeforces.com/problemset/problem/479/C,"['greedy', 'sortings'",]
-84,84,84,Caesar'sLegions,http://codeforces.com/problemset/problem/118/D,['dp',]
-85,85,85,BeautifulSetsofPoints,http://codeforces.com/problemset/problem/268/C,"['constructive algorithms', 'implementation'",]
-86,86,86,Boredom,http://codeforces.com/problemset/problem/455/A,['dp',]
-87,87,87,NumberofWays,http://codeforces.com/problemset/problem/466/C,"['binary search', 'brute force', 'data structures', 'dp', 'two pointers'",]
-88,88,88,AandBandInterestingSubstrings,http://codeforces.com/problemset/problem/519/D,"['data structures', 'dp', 'two pointers'",]
-89,89,89,ValidSets,http://codeforces.com/problemset/problem/486/D,"['dfs and similar', 'dp', 'math', 'trees'",]
-90,90,90,DevuandPartitioningoftheArray,http://codeforces.com/problemset/problem/439/C,"['brute force', 'constructive algorithms', 'implementation', 'number theory'",]
-91,91,91,GoodSubstrings,http://codeforces.com/problemset/problem/271/D,"['data structures', 'strings'",]
-92,92,92,WonderRoom,http://codeforces.com/problemset/problem/466/B,"['brute force', 'math'",]
-93,93,93,Present,http://codeforces.com/problemset/problem/460/C,"['binary search', 'data structures', 'greedy'",]
-94,94,94,PaintingFence,http://codeforces.com/problemset/problem/448/C,"['divide and conquer', 'dp', 'greedy'",]
-95,95,95,VasyaandBasketball,http://codeforces.com/problemset/problem/493/C,"['binary search', 'brute force', 'data structures', 'implementation', 'sortings', 'two pointers'",]
-96,96,96,BearandPrimeNumbers,http://codeforces.com/problemset/problem/385/C,"['binary search', 'brute force', 'data structures', 'dp', 'implementation', 'math', 'number theory'",]
-97,97,97,RestoreGraph,http://codeforces.com/problemset/problem/404/C,"['dfs and similar', 'graphs', 'sortings'",]
-98,98,98,GargariandBishops,http://codeforces.com/problemset/problem/463/C,"['greedy', 'hashing', 'implementation'",]
-99,99,99,MultiplicationTable,http://codeforces.com/problemset/problem/448/D,"['binary search', 'brute force'",]
+,Nombre,Enlace,Temas
+0,Presents,http://codeforces.com/problemset/problem/136/A,"['implementation', '*800']"
+1,NearlyLuckyNumber,http://codeforces.com/problemset/problem/110/A,"['implementation', '*800']"
+2,PetyaandStrings,http://codeforces.com/problemset/problem/112/A,"['implementation', 'strings', '*800']"
+3,Tram,http://codeforces.com/problemset/problem/116/A,"['implementation', '*800']"
+4,Ultra-FastMathematician,http://codeforces.com/problemset/problem/61/A,"['implementation', '*800']"
+5,AmusingJoke,http://codeforces.com/problemset/problem/141/A,"['implementation', 'sortings', 'strings', '*800']"
+6,WayTooLongWords,http://codeforces.com/problemset/problem/71/A,"['strings', '*800']"
+7,XeniaandRingroad,http://codeforces.com/problemset/problem/339/B,"['implementation', '*1000']"
+8,SlightlyDecreasingPermutations,http://codeforces.com/problemset/problem/285/A,"['greedy', 'implementation', '*1100']"
+9,Football,http://codeforces.com/problemset/problem/96/A,"['implementation', 'strings', '*900']"
+10,CaisaandPylons,http://codeforces.com/problemset/problem/463/B,"['brute force', 'implementation', 'math', '*1100']"
+11,PresentfromLena,http://codeforces.com/problemset/problem/118/B,"['constructive algorithms', 'implementation', '*1000']"
+12,k-String,http://codeforces.com/problemset/problem/219/A,"['implementation', 'strings', '*1000']"
+13,FancyFence,http://codeforces.com/problemset/problem/270/A,"['geometry', 'implementation', 'math', '*1100']"
+14,Chatroom,http://codeforces.com/problemset/problem/58/A,"['greedy', 'strings', '*1000']"
+15,Contest,http://codeforces.com/problemset/problem/501/A,"['implementation', '*900']"
+16,Twins,http://codeforces.com/problemset/problem/160/A,"['greedy', 'sortings', '*900']"
+17,Puzzles,http://codeforces.com/problemset/problem/337/A,"['greedy', '*900']"
+18,StringTask,http://codeforces.com/problemset/problem/118/A,"['implementation', 'strings', '*1000']"
+19,MashmokhandACM,http://codeforces.com/problemset/problem/414/B,"['combinatorics', 'dp', 'number theory', '*1400']"
+20,TheChildandToy,http://codeforces.com/problemset/problem/437/C,"['graphs', 'greedy', 'sortings', '*1400']"
+21,Fence,http://codeforces.com/problemset/problem/363/B,"['brute force', 'dp', '*1100']"
+22,T-primes,http://codeforces.com/problemset/problem/230/B,"['binary search', 'implementation', 'math', 'number theory', '*1300']"
+23,RankList,http://codeforces.com/problemset/problem/166/A,"['binary search', 'implementation', 'sortings', '*1100']"
+24,FoxandBoxAccumulation,http://codeforces.com/problemset/problem/388/A,"['greedy', 'sortings', '*1400']"
+25,CinemaLine,http://codeforces.com/problemset/problem/349/A,"['greedy', 'implementation', '*1100']"
+26,EscapefromStones,http://codeforces.com/problemset/problem/264/A,"['constructive algorithms', 'data structures', 'implementation', 'two pointers', '*1200']"
+27,Laptops,http://codeforces.com/problemset/problem/456/A,"['sortings', '*1100']"
+28,LittleElephantandBits,http://codeforces.com/problemset/problem/258/A,"['greedy', 'math', '*1100']"
+29,FlippingGame,http://codeforces.com/problemset/problem/327/A,"['brute force', 'dp', 'implementation', '*1200']"
+30,MashmokhandACM,http://codeforces.com/problemset/problem/414/B,"['combinatorics', 'dp', 'number theory', '*1400']"
+31,DimaandStaircase,http://codeforces.com/problemset/problem/272/C,"['data structures', 'implementation', '*1500']"
+32,BuildingPermutation,http://codeforces.com/problemset/problem/285/C,"['greedy', 'implementation', 'sortings', '*1200']"
+33,IlyaandQueries,http://codeforces.com/problemset/problem/313/B,"['dp', 'implementation', '*1100']"
+34,KuriyamaMirai'sStones,http://codeforces.com/problemset/problem/433/B,"['dp', 'implementation', 'sortings', '*1200']"
+35,Party,http://codeforces.com/problemset/problem/115/A,"['dfs and similar', 'graphs', 'trees', '*900']"
+36,IceSkating,http://codeforces.com/problemset/problem/217/A,"['brute force', 'dfs and similar', 'dsu', 'graphs', '*1200']"
+37,CutRibbon,http://codeforces.com/problemset/problem/189/A,"['brute force', 'dp', '*1300']"
+38,BookingSystem,http://codeforces.com/problemset/problem/416/C,"['binary search', 'dp', 'greedy', 'implementation', '*1600']"
+39,FoxAndNames,http://codeforces.com/problemset/problem/510/C,"['dfs and similar', 'graphs', 'sortings', '*1600']"
+40,FoxAndTwoDots,http://codeforces.com/problemset/problem/510/B,"['dfs and similar', '*1500']"
+41,PocketBook,http://codeforces.com/problemset/problem/152/C,"['combinatorics', '*1400']"
+42,Array,http://codeforces.com/problemset/problem/224/B,"['bitmasks', 'implementation', 'two pointers', '*1500']"
+43,Ladder,http://codeforces.com/problemset/problem/279/C,"['dp', 'implementation', 'two pointers', '*1700']"
+44,DivisibilitybyEight,http://codeforces.com/problemset/problem/550/C,"['brute force', 'dp', 'math', '*1500']"
+45,LittleElephantandProblem,http://codeforces.com/problemset/problem/220/A,"['implementation', 'sortings', '*1300']"
+46,CielandFlowers,http://codeforces.com/problemset/problem/322/B,"['combinatorics', 'math', '*1600']"
+47,ConvexShape,http://codeforces.com/problemset/problem/275/B,"['constructive algorithms', 'implementation', '*1700']"
+48,Maze,http://codeforces.com/problemset/problem/377/A,"['dfs and similar', '*1600']"
+49,ViewAngle,http://codeforces.com/problemset/problem/257/C,"['brute force', 'geometry', 'math', '*1800']"
+50,"Mr.Kitayuta,theTreasureHunter",http://codeforces.com/problemset/problem/505/C,"['dfs and similar', 'dp', 'two pointers', '*1900']"
+51,MaximumAbsurdity,http://codeforces.com/problemset/problem/332/B,"['data structures', 'dp', 'implementation', '*1500']"
+52,ColorStripe,http://codeforces.com/problemset/problem/219/C,"['brute force', 'dp', 'greedy', '*1600']"
+53,Checkposts,http://codeforces.com/problemset/problem/427/C,"['dfs and similar', 'graphs', 'two pointers', '*1700']"
+54,MishaandForest,http://codeforces.com/problemset/problem/501/C,"['constructive algorithms', 'data structures', 'greedy', 'sortings', 'trees', '*1500']"
+55,KolyaandTandemRepeat,http://codeforces.com/problemset/problem/443/B,"['brute force', 'implementation', 'strings', '*1500']"
+56,AnyaandGhosts,http://codeforces.com/problemset/problem/508/C,"['constructive algorithms', 'greedy', '*1600']"
+57,RemovingColumns,http://codeforces.com/problemset/problem/496/C,"['brute force', 'constructive algorithms', 'implementation', '*1500']"
+58,BeautifulNumbers,http://codeforces.com/problemset/problem/300/C,"['brute force', 'combinatorics', '*1800']"
+59,VasyaandChess,http://codeforces.com/problemset/problem/493/D,"['constructive algorithms', 'games', 'math', '*1700']"
+60,Hamburgers,http://codeforces.com/problemset/problem/371/C,"['binary search', 'brute force', '*1600']"
+61,ColorfulGraph,http://codeforces.com/problemset/problem/246/D,"['brute force', 'dfs and similar', 'graphs', '*1600']"
+62,ToAddorNottoAdd,http://codeforces.com/problemset/problem/231/C,"['binary search', 'sortings', 'two pointers', '*1600']"
+63,XeniaandBitOperations,http://codeforces.com/problemset/problem/339/D,"['data structures', 'trees', '*1700']"
+64,LittleGirlandMaximumXOR,http://codeforces.com/problemset/problem/276/D,"['bitmasks', 'dp', 'greedy', 'implementation', 'math', '*1700']"
+65,ArithmeticProgression,http://codeforces.com/problemset/problem/382/C,"['implementation', 'sortings', '*1700']"
+66,FriendsandPresents,http://codeforces.com/problemset/problem/483/B,"['binary search', 'math', '*1800']"
+67,Barcode,http://codeforces.com/problemset/problem/225/C,"['dp', 'matrices', '*1700']"
+68,XeniaandWeights,http://codeforces.com/problemset/problem/339/C,"['constructive algorithms', 'dfs and similar', 'dp', 'graphs', 'greedy', 'shortest paths', '*1700']"
+69,LittleDimaandEquation,http://codeforces.com/problemset/problem/460/B,"['brute force', 'implementation', 'math', 'number theory', '*1500']"
+70,LongJumps,http://codeforces.com/problemset/problem/479/D,"['binary search', 'greedy', 'implementation', '*1700']"
+71,Tetrahedron,http://codeforces.com/problemset/problem/166/E,"['dp', 'math', 'matrices', '*1500']"
+72,PhysicsPractical,http://codeforces.com/problemset/problem/253/B,"['binary search', 'dp', 'sortings', 'two pointers', '*1400']"
+73,Boredom,http://codeforces.com/problemset/problem/455/A,"['dp', '*1500']"
+74,ValeraandTubes,http://codeforces.com/problemset/problem/441/C,"['constructive algorithms', 'dfs and similar', 'implementation', '*1500']"
+75,ValeraandElections,http://codeforces.com/problemset/problem/369/C,"['dfs and similar', 'graphs', 'trees', '*1600']"
+76,LittleGirlandMaximumSum,http://codeforces.com/problemset/problem/276/C,"['data structures', 'greedy', 'implementation', 'sortings', '*1500']"
+77,GeorgeandJob,http://codeforces.com/problemset/problem/467/C,"['dp', 'implementation', '*1700']"
+78,TableDecorations,http://codeforces.com/problemset/problem/478/C,"['greedy', '*1800']"
+79,k-Tree,http://codeforces.com/problemset/problem/431/C,"['dp', 'implementation', 'trees', '*1600']"
+80,ColortheFence,http://codeforces.com/problemset/problem/349/B,"['data structures', 'dp', 'greedy', 'implementation', '*1700']"
+81,PolothePenguinandMatrix,http://codeforces.com/problemset/problem/289/B,"['brute force', 'dp', 'implementation', 'sortings', 'ternary search', '*1400']"
+82,AnotherProblemonStrings,http://codeforces.com/problemset/problem/165/C,"['binary search', 'brute force', 'dp', 'math', 'strings', 'two pointers', '*1600']"
+83,Exams,http://codeforces.com/problemset/problem/479/C,"['greedy', 'sortings', '*1400']"
+84,Caesar'sLegions,http://codeforces.com/problemset/problem/118/D,"['dp', '*1700']"
+85,BeautifulSetsofPoints,http://codeforces.com/problemset/problem/268/C,"['constructive algorithms', 'implementation', '*1500']"
+86,Boredom,http://codeforces.com/problemset/problem/455/A,"['dp', '*1500']"
+87,NumberofWays,http://codeforces.com/problemset/problem/466/C,"['binary search', 'brute force', 'data structures', 'dp', 'two pointers', '*1700']"
+88,AandBandInterestingSubstrings,http://codeforces.com/problemset/problem/519/D,"['data structures', 'dp', 'two pointers', '*1800']"
+89,ValidSets,http://codeforces.com/problemset/problem/486/D,"['dfs and similar', 'dp', 'math', 'trees', '*2100']"
+90,DevuandPartitioningoftheArray,http://codeforces.com/problemset/problem/439/C,"['brute force', 'constructive algorithms', 'implementation', 'number theory', '*1700']"
+91,GoodSubstrings,http://codeforces.com/problemset/problem/271/D,"['data structures', 'strings', '*1800']"
+92,WonderRoom,http://codeforces.com/problemset/problem/466/B,"['brute force', 'math', '*2000']"
+93,Present,http://codeforces.com/problemset/problem/460/C,"['binary search', 'data structures', 'greedy', '*1700']"
+94,PaintingFence,http://codeforces.com/problemset/problem/448/C,"['divide and conquer', 'dp', 'greedy', '*1900']"
+95,VasyaandBasketball,http://codeforces.com/problemset/problem/493/C,"['binary search', 'brute force', 'data structures', 'implementation', 'sortings', 'two pointers', '*1600']"
+96,BearandPrimeNumbers,http://codeforces.com/problemset/problem/385/C,"['binary search', 'brute force', 'data structures', 'dp', 'implementation', 'math', 'number theory', '*1700']"
+97,RestoreGraph,http://codeforces.com/problemset/problem/404/C,"['dfs and similar', 'graphs', 'sortings', '*1800']"
+98,GargariandBishops,http://codeforces.com/problemset/problem/463/C,"['greedy', 'hashing', 'implementation', '*1900']"
+99,MultiplicationTable,http://codeforces.com/problemset/problem/448/D,"['binary search', 'brute force', '*1800']"
